@@ -6,3 +6,5 @@ for _ in range(1000):
     t.circle(100)
     t.right(10)
 turtle.done()
+
+# this is where I will start tomo
